@@ -60,29 +60,36 @@
 ![screenshot](images/11.png)
 ![screenshot](images/12.png)
 # Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
-
 ## Langkah 1: Cupertino Button dan Loading Bar
 ### Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dari material dan cupertino. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
-
+![screenshot](images/13.png)
+![screenshot](images/14.png)
 ## Langkah 2: Floating Action Button (FAB)
 ### Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
 
 ### Buat file di basic_widgets > fab_widget.dart. Import stateless widget dari material. Lalu isi kode di dalam method Widget build adalah sebagai berikut.
-
+![screenshot](images/15.png)
 ## Langkah 3: Scaffold Widget
 ### Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
 
 ### Ubah isi kode main.dart seperti berikut.
-
+![screenshot](images/16.png)
 ## Langkah 4: Dialog Widget
 ### Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
 
 ### Ubah isi kode main.dart seperti berikut.
-
+![screenshot](images/17.png)
 ## Langkah 5: Input dan Selection Widget
 ### Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
-
 ### Contoh penggunaan TextField widget adalah sebagai berikut:
-
+![screenshot](images/18.png)
 ## Langkah 6: Date and Time Pickers
 ### Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
+![screenshot](images/19.png)
+![screenshot](images/20.png)
+![screenshot](images/21.png)
+
+# Tugas
+## 1. Selesaikan Praktikum 1 sampai 4, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md!
+## 2. Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
+## 3. Kumpulkan berupa link repository GitHub Anda ke LMS yang telah dibuat berdasarkan pada Praktikum 2!
