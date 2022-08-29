@@ -91,5 +91,27 @@
 
 # Tugas
 ## 1. Selesaikan Praktikum 1 sampai 4, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md!
+###
 ## 2. Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
+###
+### Langkah 3
+![screenshot](images/22.png)
+![screenshot](images/23.png)
+###
+###
+### Langkah 4
+![screenshot](images/24.png)
+![screenshot](images/25.png)
+###
+###
+### Langkah 5
+![screenshot](images/26.png)
+![screenshot](images/27.png)
+###
+###
+### Langkah 6
+![screenshot](images/28.png)
+![screenshot](images/29.png)
+###
 ## 3. Kumpulkan berupa link repository GitHub Anda ke LMS yang telah dibuat berdasarkan pada Praktikum 2!
+### Link : https://github.com/riyanlasso/flutter-fundamental-part1.git
